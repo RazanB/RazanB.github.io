@@ -1,34 +1,23 @@
-.everything {
-  background-color: #D6CFCB;
+.Heading {
+  font-family: 'Dawning of a New Day', cursive;
+  text-align: center;
+  color: #D9D2B6;
+  font-size: 40px;
 }
 
-.meow {
-  color: #006989;
+html {
+  background: url('http://i.imgur.com/GuJRWsA.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
 }
 
-#twitter {
-  background-color: #D84797;
-  color: white;
-  padding: 10px;
-  border: solid 5px pink;
-}
-
-.box1 {
-  background-color: green;
-  margin: 10px;
-  padding: 5px;
-  float: left;
-}
-
-.box2 {
-  background-color: pink;
-  margin: 10px;
-  padding: 5px;
-  display: inlne-block;
-  float: right;
-}
-
-.Font Test{
-  font-family: "Georgia"
+.greeting{
+  font-family: 'Abril Fatface', cursive;  
+  text-align: center;
+  font-size: 40px;
+  color: #D9D2B6;
   
 }
